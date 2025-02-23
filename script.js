@@ -1,0 +1,1 @@
+alert("NTA all IT rights reserved.......!")
